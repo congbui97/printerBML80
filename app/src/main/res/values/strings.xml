@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PrinterMarutou</string>
+    <string name="connect_bluetooth">Connect Bluetooth</string>
+    <string name="connect">Connect</string>
+    <string name="cancel">Cancel</string>
+    <string name="name_device">Device</string>
+    <string name="print_nodevice">No device</string>
+    <string name="print">Print with </string>
+
+
+    <!--instruction-->
+    <string name="toast_1">Transaction print,use the AIDL mode!</string>
+    <string name="toast_2">The service has been disconnected!</string>
+    <string name="toast_3">Bluetooth device is unavailable</string>
+    <string name="toast_4">Bluetooth device not detected. Please open Bluetooth!</string>
+    <string name="toast_5">Not Found InnterPrinter!</string>
+    <string name="toast_6">Bluetooth connect failed!</string>
+    <string name="toast_7"> Only a single Qr code is printed for the AIDL mode</string>
+    <string name="toast_8">Now QrCode size must be less than 7!</string>
+    <string name="toast_9">BarCode type or conent error!</string>
+    <string name="toast_10">Please set the printer as black label mode!</string>
+    <string name="filter_title_view_app_from_web">MarutouPrinter</string>
+
+    <string name="create_floating_widget">Create Floating Widget</string>
+    <string name="floating_widget_label">Floating Widget Label</string>
+    <string name="floating_widget_details">Floating Widget Details</string>
+    <string name="draw_other_app_permission_denied">Draw over other app permission not available. App won\'t work without permission. Please try again.</string>
+
+
+</resources>
